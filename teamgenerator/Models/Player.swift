@@ -31,9 +31,9 @@ enum SkillLevel: Int, Codable, CaseIterable {
 }
 
 struct Player: Identifiable, Codable, Hashable {
-    var id: UUID = UUID()          // identificador único, gerado automaticamente
-    var name: String      // nome do jogador
-    var gender: Gender    // .male ou .female
-    var skillLevel: SkillLevel  // nível de 1 a 5
-    var isSelected: Bool = true  // está na partida de hoje? (o toggle do Roster)
+    var id: UUID = UUID()
+    var name: String
+    var gender: Gender
+    var skillLevel: SkillLevel
+    var isSelected: Bool = true
 }
