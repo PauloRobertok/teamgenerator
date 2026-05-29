@@ -6,9 +6,10 @@
 //
 
 import Combine
+import SwiftUI
 
 final class GroupViewModel: GroupViewModelProtocol {
-    let state: GroupViewState
+    @Published var state: GroupViewState
     
     let objectWillChange: ObservableObjectPublisher = .init()
     

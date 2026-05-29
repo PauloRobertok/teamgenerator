@@ -9,4 +9,5 @@ enum GroupViewState {
     case loading
     case error
     case loaded
+    case teams(players: [Player])
 }
