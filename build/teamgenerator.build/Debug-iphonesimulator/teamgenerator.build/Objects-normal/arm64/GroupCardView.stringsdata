@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/View/SubViews/GroupCardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sport: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld Players",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}

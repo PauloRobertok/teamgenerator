@@ -1,0 +1,129 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgenerator-primary.dia",
+    "emit-module-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgenerator-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgenerator-primary-emit-module.dia",
+    "pch" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgenerator-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgenerator-primary.swiftdeps"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/App/teamgeneratorApp.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/teamgeneratorApp~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/Architecture/Manager/TeamManager.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/TeamManager~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/Architecture/Model/Group.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Group~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/Architecture/Model/Player.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Player~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/Architecture/Model/Team.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/Team~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/View/GroupView.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupView~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/View/GroupViewState.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewState~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/View/SubViews/GroupCardView.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupCardView~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/View/SubViews/GroupHeaderView.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupHeaderView~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/ViewModel/GroupViewModel.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModel~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/Scenes/Groups/ViewModel/GroupViewModelProtocol.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GroupViewModelProtocol~partial.swiftmodule"
+  },
+  "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ravinavarro/Documents/MyProjects/teamGenerator/build/teamgenerator.build/Debug-iphonesimulator/teamgenerator.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
