@@ -7,6 +7,14 @@
 
 import Foundation
 
+struct Player: Identifiable, Codable, Hashable {
+    var id: UUID = UUID()
+    var name: String
+    var gender: Gender
+    var skillLevel: SkillLevel
+    var isSelected: Bool = true
+}
+
 enum Gender: String, Codable, CaseIterable {
     case male = "Male"
     case female = "Female"
@@ -28,12 +36,4 @@ enum SkillLevel: Int, Codable, CaseIterable {
         case .pro: return "Profissional"
         }
     }
-}
-
-struct Player: Identifiable, Codable, Hashable {
-    var id: UUID = UUID()
-    var name: String
-    var gender: Gender
-    var skillLevel: SkillLevel
-    var isSelected: Bool = true
 }

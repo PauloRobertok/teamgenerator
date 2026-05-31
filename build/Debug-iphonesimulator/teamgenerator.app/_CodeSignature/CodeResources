@@ -6,7 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		rfd+KPiqcmDWwNGkHEZUErv9Sr4=
+		d6329dyww7weSwigDDviA6L3VnU=
+		</data>
+		<key>GroupGame.momd/GroupGame.mom</key>
+		<data>
+		Fgx6R+nrswu6+8jiudgRDQ4iqw4=
+		</data>
+		<key>GroupGame.momd/VersionInfo.plist</key>
+		<data>
+		Ga7e3IzPvdsOEB0vDydFwS/0ELE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -22,7 +30,7 @@
 		</data>
 		<key>teamgenerator.debug.dylib</key>
 		<data>
-		ou3CPVZKyvoJfqzPUQXMcuOWT30=
+		QIO/UD+R6eDdhvqCG3ali6ul+RQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -31,7 +39,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fq3G3WP0rLmLUENBKgvqmgOR10TioqtcB15fpjmvy+c=
+			a+vDW95OjQXUzMHEP2lgFwkKko8fR8n4nLWPoc6971Q=
+			</data>
+		</dict>
+		<key>GroupGame.momd/GroupGame.mom</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lzRhVoL0E2hU706UOzsZ5vg71y46CkFa/8QRjM5P1WU=
+			</data>
+		</dict>
+		<key>GroupGame.momd/VersionInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5KfdbhmErPwb44z7+69JXEPWE4ywWMWezZuVF/YCDX8=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
@@ -45,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISSg29pImuO4OKdJf5ZeRF6c0k929RApdxtxVZJdg8E=
+			xawx7d0j1t4nR+99vDUwKA1efbGDGUaqSGmIw1w0vsQ=
 			</data>
 		</dict>
 	</dict>

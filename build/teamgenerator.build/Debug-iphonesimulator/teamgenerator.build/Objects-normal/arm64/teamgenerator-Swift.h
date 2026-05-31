@@ -344,6 +344,7 @@ extern "C" {
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreData;
 #endif
 
 #endif // defined(__OBJC__)
@@ -365,6 +366,48 @@ extern "C" {
 #endif
 
 #if defined(__OBJC__)
+
+@class NSEntityDescription;
+@class NSManagedObjectContext;
+SWIFT_CLASS_NAMED("GroupGameEntity")
+@interface GroupGameEntity : NSManagedObject
+- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class PlayerEntity;
+@class NSSet;
+@interface GroupGameEntity (SWIFT_EXTENSION(teamgenerator))
+- (void)addPlayersObject:(PlayerEntity * _Nonnull)value;
+- (void)removePlayersObject:(PlayerEntity * _Nonnull)value;
+- (void)addPlayers:(NSSet * _Nonnull)values;
+- (void)removePlayers:(NSSet * _Nonnull)values;
+@end
+
+@class NSDate;
+@class NSUUID;
+@class NSString;
+@interface GroupGameEntity (SWIFT_EXTENSION(teamgenerator))
+@property (nonatomic, copy) NSDate * _Nullable createdAt;
+@property (nonatomic, copy) NSUUID * _Nullable id;
+@property (nonatomic) int16_t minWomenPerTeam;
+@property (nonatomic, copy) NSString * _Nullable name;
+@property (nonatomic, copy) NSString * _Nullable sportType;
+@property (nonatomic, strong) NSSet * _Nullable players;
+@end
+
+SWIFT_CLASS_NAMED("PlayerEntity")
+@interface PlayerEntity : NSManagedObject
+- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@interface PlayerEntity (SWIFT_EXTENSION(teamgenerator))
+@property (nonatomic, copy) NSString * _Nullable gender;
+@property (nonatomic, copy) NSUUID * _Nullable id;
+@property (nonatomic) BOOL isSelected;
+@property (nonatomic, copy) NSString * _Nullable name;
+@property (nonatomic) int16_t skillLevel;
+@property (nonatomic, strong) GroupGameEntity * _Nullable group;
+@end
 
 #endif // defined(__OBJC__)
 #if __has_attribute(external_source_symbol)

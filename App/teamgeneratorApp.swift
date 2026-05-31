@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct teamgeneratorApp: App {
+    
+    private let gameCoordinator = GroupGameCoordinator()
+    
     var body: some Scene {
         WindowGroup {
-            GroupView()
+            gameCoordinator.show()
         }
     }
 }
